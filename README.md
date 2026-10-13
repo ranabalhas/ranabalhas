@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rana 👋
 
-<!--
-**ranabalhas/ranabalhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Communication Engineering graduate interested in web development and building practical software solutions.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Bachelor's degree in Communication Engineering
+* 🌐 Interested in front-end and back-end web development
+* 🚀 Developed a University Transportation and Parking Subscription System as my graduation project
+* 🌱 Currently improving my web development and software engineering skills
+* 💼 Open to entry-level opportunities and internships in web development
+
+## 🛠️ Technologies & Skills
+
+* **Front End:** HTML, CSS, JavaScript
+* **Back End:** PHP
+* **Database:** MySQL / SQL
+* **Tools:** Git, GitHub, XAMPP
+
+## 🚀 Featured Project
+
+### University Transportation and Parking Subscription System
+
+A web-based university system designed to manage student parking subscriptions and bus transportation services.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+
+## 🌐 Portfolio
+
+Explore my projects and learn more about me:
+
+**[Visit My Portfolio](https://ranabalhas.github.io)**
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/rana-balhas-145232430/)
+* **GitHub:** [@ranabalhas](https://github.com/ranabalhas)
+
